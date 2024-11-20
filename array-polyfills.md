@@ -75,3 +75,9 @@ const sum = arr.reduce((acc, item) => acc + item, 0);
 - These polyfills are simplified versions and may not cover all edge cases of native implementations
 - Modern browsers support these methods natively
 - For production, prefer native methods or well-tested polyfill libraries
+
+## Contributing
+Feel free to contribute to this document by creating a pull request or opening an issue!
+
+---
+Created with 💻 by AsumaCodes
