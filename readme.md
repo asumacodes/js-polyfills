@@ -48,6 +48,13 @@ Welcome to the ultimate JavaScript Polyfills repository! This repository is dedi
 - May not cover all edge cases of native implementations
 - Prefer native methods in production code
 
-## 🌟 Star History
+## 📫 Connect with Me
 
-If this repository helps you, please give it a star! ⭐
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AsumaCodes)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsumaCodes)
+
+---
+
+### Star ⭐ this repository if you find it helpful!
+
+Created with 💻 by AsumaCodes
