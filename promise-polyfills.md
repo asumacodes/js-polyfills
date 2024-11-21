@@ -193,3 +193,9 @@ Promise.any([promise1, promise2, promise3])
 - These polyfills are simplified implementations
 - They may not cover all edge cases of native Promise methods
 - Recommended for learning purposes, not production use
+
+## Contributing
+Feel free to contribute to this document by creating a pull request or opening an issue!
+
+---
+Created with 💻 by AsumaCodes
